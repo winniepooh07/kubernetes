@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.13.2
+FROM gcr.io/google-containers/kube-apiserver-amd64:v1.13.2
 MAINTAINER winniepooh07
